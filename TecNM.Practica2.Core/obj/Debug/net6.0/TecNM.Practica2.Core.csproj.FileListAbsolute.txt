@@ -1,0 +1,12 @@
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net6.0\TecNM.Practica2.Core.deps.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net6.0\TecNM.Practica2.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net6.0\TecNM.Practica2.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.csproj.AssemblyReference.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.AssemblyInfoInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.AssemblyInfo.cs
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\refint\TecNM.Practica2.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\TecNM.Practica2.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net6.0\ref\TecNM.Practica2.Core.dll
